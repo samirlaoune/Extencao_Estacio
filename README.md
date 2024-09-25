@@ -3,7 +3,7 @@
 
  ### Objetivo do projeto:
  - Analisar o banco de dados utilizando Python e a biblioteca Pandas;
- - Corrigir os erros da tabela do banco de dados (tratamento de Dados);
+ - Corrigir os erros da tabela da Base de Dados (tratamento de Dados);
  - Análise de cancelamentos (como os cancelamentos impactam na coluna da tabela?);
  - Transformar a Análise em Gráficos;
  - Análise Final, solução. 
